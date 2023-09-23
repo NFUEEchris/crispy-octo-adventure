@@ -1,5 +1,5 @@
 # vannamei_counting
-#### 在YOLOv7中的backbone 與 head 中間的Conv後加入simAM 注意力機制
+#### 在YOLOv7中的backbone 與 head 中間的Conv後加入simAM 注意力機制，與 reference 的論文使用架構相似只是將 CBAM 改成simAM 
 # Result
 ![0](https://github.com/NFUEEchris/vannamei_counting/assets/74455348/7364b850-2636-4e98-a606-f1a0d948769a)
 # reference
